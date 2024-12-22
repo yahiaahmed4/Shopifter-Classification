@@ -1,4 +1,4 @@
-# Shoplifter Classification Using Pre-trained ViViT Model
+# Shoplifting Detection Using Pre-trained ViViT Model
 
 This repository contains the code for classifying shoplifting activities in videos using a fine-tuned ViViT (Video Vision Transformer) model. The notebook provided demonstrates the process of dataset preparation, model fine-tuning, evaluation, and inference on the shoplifting classification dataset. This project showcases how video classification can be applied to real-world scenarios like detecting shoplifting in surveillance footage.
 
